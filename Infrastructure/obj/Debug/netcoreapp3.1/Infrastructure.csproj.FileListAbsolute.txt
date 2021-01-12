@@ -4,6 +4,8 @@ C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWith
 C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
 C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
 C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
-C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\MehmetYagci\source\repos\CleanArchitectureWithDDD\CleanArchitectureWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
