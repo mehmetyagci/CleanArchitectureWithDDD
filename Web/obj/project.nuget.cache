@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGHmWF+XWWnPLSjTf3YkV03NYeeeY9v68RL57jnyyTpkuTxRcCDswMybwzYvaeEW3zsRKB15S/wEZuv0oUQ6mw==",
+  "dgSpecHash": "pWjrxp8JbI/bWTFbICr0K/LT4zPmj3gXS+hz6O4MjtOiQ+gWoldBLXcWlbSMusyBJyfqKbbcmXIY6N5pGd7T9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MehmetYagci\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\MehmetYagci\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

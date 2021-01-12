@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MehmetYagci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

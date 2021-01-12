@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrCH1C43Vs7l1Hi53cLKIohm4CfA8W/B58o4949ZbF7mVPXW7RRojJH4EdrcR2/DIof5foN2L8M00B3ExJ6kUQ==",
+  "dgSpecHash": "mPeL+XNrAdPWY8ga1f3/IYieO8iEyEfYnpsLt2akN7EPeK5dN4MzYihvoj+ETKDdzkUEnDsdjwfgAvpWoCUkbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

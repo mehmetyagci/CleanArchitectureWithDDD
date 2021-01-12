@@ -11886,11 +11886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\MehmetYagci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Web\\obj\\",
+      "outputPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

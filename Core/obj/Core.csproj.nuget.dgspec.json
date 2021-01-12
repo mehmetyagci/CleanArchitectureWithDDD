@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Core\\Core.csproj": {}
+    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Core\\Core.csproj": {
+    "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\MehmetYagci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\Core\\obj\\",
+        "outputPath": "C:\\Users\\MehmetYagci\\source\\repos\\CleanArchitectureWithDDD\\CleanArchitectureWithDDD\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
